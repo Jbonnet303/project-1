@@ -1,0 +1,89 @@
+
+
+body {
+  text-align: center;
+  background-image: url(http://www.freehdimages.in/uploads/large/desktop-hd-pictures-of-planets-in-space.jpg);
+  background-size: cover;
+}
+
+
+
+button {
+  font-weight: bold;
+  color: rgb(16, 49, 116);
+  font-size: 20px;
+  font-family: 'Orbitron', sans-serif;, cursive;/*'Francois One', sans-serif; */
+  background-color:rgb(130, 178, 226, .4);
+}
+
+
+
+h1 {
+
+  font-family: 'Orbitron', sans-serif;, cursive;/*'Monoton', cursive; */
+  color: rgb(13, 215, 47);
+  font-size: 45px;
+}
+
+
+
+h3 {
+  font-family: 'Orbitron', sans-serif;, cursive;/*'Monoton', cursive;*/
+  color: rgb(16, 49, 116);
+  font-size: 30px;
+}
+
+
+
+footer {
+  padding-top: 25px;
+}
+
+
+
+#connect5 {
+  background-color: rgba(210, 250, 15, 0.10);
+  display: inline-block;
+}
+
+
+
+.col {
+  width: 60px;
+  height: 60px;
+  display: inline-block;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 50%;
+  margin: 5px;
+}
+
+
+.col.empty {
+  cursor: pointer;
+}
+
+
+
+.next-green {
+background-color: rgba(65, 219, 4, 0.50);
+}
+
+
+
+.col.green {
+  background-image: url(http://sagemtn.org/wp-content/uploads/2017/04/wGGzFWc95tj5hmdHCpPFJFHk.jpeg);
+  background-size: cover;
+  opacity: 0.6;
+}
+
+
+.next-black {
+background-color: rgba(0, 0, 0, .80);
+}
+
+
+.col.black {
+background-image: url(http://newinterestingfacts.com/wp-content/uploads/2016/05/jupiter-facts.jpg);
+background-size: cover;
+opacity: 0.6;
+}
