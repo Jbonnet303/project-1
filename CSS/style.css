@@ -7,6 +7,10 @@ html {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: stretch;
+  height: 100%;
+  padding-top: 150px;
+  padding: 0;
+  margin: 0;
 }
 
   /* body {
