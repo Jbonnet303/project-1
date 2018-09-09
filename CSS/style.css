@@ -1,38 +1,3 @@
-/* html {
-  background-image:
-  url(https://previews.123rf.com/images/maximusnd/maximusnd1707/maximusnd170702077/81971890-espacio-profundo-fondo-de-alta-definici%C3%B3n-del-campo-de-estrella-textura-estrellada-del-fondo-del-espaci.jpg);
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: stretch;
-  height: 100%;
-  padding-top: 150px;
-  padding: 0;
-  margin: 0;
-} */
-
-  /* body {
-  text-align: center;
-  background-image: url(http://www.freehdimages.in/uploads/large/desktop-hd-pictures-of-planets-in-space.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: stretch;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  height: 100%;
-  padding-top: 150px;
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: stretch;
-} */
 
 .edit-background {
   background: url('https://orig00.deviantart.net/bedc/f/2014/187/e/4/blue_space_background__looks_the_same_as_the_rest__by_darkdissolution-d7pgwmn.png');
