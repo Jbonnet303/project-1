@@ -35,7 +35,7 @@
 } */
 
 .edit-background {
-  background-image: url('https://orig00.deviantart.net/bedc/f/2014/187/e/4/blue_space_background__looks_the_same_as_the_rest__by_darkdissolution-d7pgwmn.png');
+  background: url('https://orig00.deviantart.net/bedc/f/2014/187/e/4/blue_space_background__looks_the_same_as_the_rest__by_darkdissolution-d7pgwmn.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: stretch;
