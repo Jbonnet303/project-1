@@ -1,21 +1,10 @@
-.edit-background {
-  background: url(http://www.freehdimages.in/uploads/large/desktop-hd-pictures-of-planets-in-space.jpg);
-  background-repeat: no-repeat;
-  background-position: stretch;
+html {
+  background-image:
+  url(http://www.freehdimages.in/uploads/large/desktop-hd-pictures-of-planets-in-space.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height: 100%;
-  padding-top: 150px;
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-  text-align: center;
-  /* display: flex; */
-  /* flex-direction: column; */
-  justify-content: center;
-  align-items: stretch;
 }
 
   /* body {
